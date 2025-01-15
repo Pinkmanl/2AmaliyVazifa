@@ -1,0 +1,14 @@
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik\RaqamlarQatori\raqamlarQatori\bin\Debug\net9.0\raqamlarQatori.exe
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik\RaqamlarQatori\raqamlarQatori\bin\Debug\net9.0\raqamlarQatori.deps.json
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik\RaqamlarQatori\raqamlarQatori\bin\Debug\net9.0\raqamlarQatori.runtimeconfig.json
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik\RaqamlarQatori\raqamlarQatori\bin\Debug\net9.0\raqamlarQatori.dll
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik\RaqamlarQatori\raqamlarQatori\bin\Debug\net9.0\raqamlarQatori.pdb
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik\RaqamlarQatori\raqamlarQatori\obj\Debug\net9.0\raqamlarQatori.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik\RaqamlarQatori\raqamlarQatori\obj\Debug\net9.0\raqamlarQatori.AssemblyInfoInputs.cache
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik\RaqamlarQatori\raqamlarQatori\obj\Debug\net9.0\raqamlarQatori.AssemblyInfo.cs
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik\RaqamlarQatori\raqamlarQatori\obj\Debug\net9.0\raqamlarQatori.csproj.CoreCompileInputs.cache
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik\RaqamlarQatori\raqamlarQatori\obj\Debug\net9.0\raqamlarQatori.dll
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik\RaqamlarQatori\raqamlarQatori\obj\Debug\net9.0\refint\raqamlarQatori.dll
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik\RaqamlarQatori\raqamlarQatori\obj\Debug\net9.0\raqamlarQatori.pdb
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik\RaqamlarQatori\raqamlarQatori\obj\Debug\net9.0\raqamlarQatori.genruntimeconfig.cache
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik\RaqamlarQatori\raqamlarQatori\obj\Debug\net9.0\ref\raqamlarQatori.dll

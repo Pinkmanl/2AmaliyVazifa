@@ -1,0 +1,14 @@
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik\kalkulyator\obj\Debug\net9.0\kalkulyator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik\kalkulyator\obj\Debug\net9.0\kalkulyator.AssemblyInfoInputs.cache
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik\kalkulyator\obj\Debug\net9.0\kalkulyator.AssemblyInfo.cs
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik\kalkulyator\obj\Debug\net9.0\kalkulyator.csproj.CoreCompileInputs.cache
+c:\Users\dilmurod\Desktop\BasicKetmaKetlik\kalkulyator\bin\Debug\net9.0\kalkulyator.exe
+c:\Users\dilmurod\Desktop\BasicKetmaKetlik\kalkulyator\bin\Debug\net9.0\kalkulyator.deps.json
+c:\Users\dilmurod\Desktop\BasicKetmaKetlik\kalkulyator\bin\Debug\net9.0\kalkulyator.runtimeconfig.json
+c:\Users\dilmurod\Desktop\BasicKetmaKetlik\kalkulyator\bin\Debug\net9.0\kalkulyator.dll
+c:\Users\dilmurod\Desktop\BasicKetmaKetlik\kalkulyator\bin\Debug\net9.0\kalkulyator.pdb
+c:\Users\dilmurod\Desktop\BasicKetmaKetlik\kalkulyator\obj\Debug\net9.0\kalkulyator.dll
+c:\Users\dilmurod\Desktop\BasicKetmaKetlik\kalkulyator\obj\Debug\net9.0\refint\kalkulyator.dll
+c:\Users\dilmurod\Desktop\BasicKetmaKetlik\kalkulyator\obj\Debug\net9.0\kalkulyator.pdb
+c:\Users\dilmurod\Desktop\BasicKetmaKetlik\kalkulyator\obj\Debug\net9.0\kalkulyator.genruntimeconfig.cache
+c:\Users\dilmurod\Desktop\BasicKetmaKetlik\kalkulyator\obj\Debug\net9.0\ref\kalkulyator.dll

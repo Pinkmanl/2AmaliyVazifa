@@ -1,0 +1,14 @@
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik\paritetTekshiruvi\bin\Debug\net9.0\paritetTekshiruvi.exe
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik\paritetTekshiruvi\bin\Debug\net9.0\paritetTekshiruvi.deps.json
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik\paritetTekshiruvi\bin\Debug\net9.0\paritetTekshiruvi.runtimeconfig.json
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik\paritetTekshiruvi\bin\Debug\net9.0\paritetTekshiruvi.dll
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik\paritetTekshiruvi\bin\Debug\net9.0\paritetTekshiruvi.pdb
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik\paritetTekshiruvi\obj\Debug\net9.0\paritetTekshiruvi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik\paritetTekshiruvi\obj\Debug\net9.0\paritetTekshiruvi.AssemblyInfoInputs.cache
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik\paritetTekshiruvi\obj\Debug\net9.0\paritetTekshiruvi.AssemblyInfo.cs
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik\paritetTekshiruvi\obj\Debug\net9.0\paritetTekshiruvi.csproj.CoreCompileInputs.cache
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik\paritetTekshiruvi\obj\Debug\net9.0\paritetTekshiruvi.dll
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik\paritetTekshiruvi\obj\Debug\net9.0\refint\paritetTekshiruvi.dll
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik\paritetTekshiruvi\obj\Debug\net9.0\paritetTekshiruvi.pdb
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik\paritetTekshiruvi\obj\Debug\net9.0\paritetTekshiruvi.genruntimeconfig.cache
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik\paritetTekshiruvi\obj\Debug\net9.0\ref\paritetTekshiruvi.dll
